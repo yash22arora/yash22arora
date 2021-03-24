@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Yashvardhan Arora
 ## I am a CSE undergrad from India!
-![I am a CSE undergrad from India!](https://github.com/yash22arora/yash22arora/blob/main/Media/animation2.gif)
+![I am a CSE undergrad from India!](https://github.com/yash22arora/yash22arora/blob/main/Media/animation2.gif =500x)
 
 
 ### Skills: 
