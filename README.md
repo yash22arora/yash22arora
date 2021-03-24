@@ -1,8 +1,8 @@
 # Hi there 👋, my name is Yashvardhan Arora
 ## I am a CSE undergrad from India!
-<img src="https://github.com/yash22arora/yash22arora/blob/main/Media/animation2.gif" width="500"> ### Skills: 
+<img src="https://github.com/yash22arora/yash22arora/blob/main/Media/animation2.gif" width="500" style="display:inline;"> 
+### Skills: 
 C / C++ / HTML / CSS / FIGMA
-
 
 
 
@@ -11,7 +11,7 @@ C / C++ / HTML / CSS / FIGMA
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on Front end  
+- 👯 I’m looking to collaborate on Front End Web Development 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I can whistle to songs quiet impressively 🤪 
 
