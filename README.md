@@ -1,10 +1,10 @@
-# Hi there 👋, my name is Yashvardhan Arora
-## I am a CSE undergrad from India!
+<h1 align="center">Hi there 👋, my name is Yashvardhan Arora</h1>
+<h2 align="center">I am a CSE undergrad from India!</h2>
 
   <img align="left" alt="GIF" src="https://github.com/yash22arora/yash22arora/blob/main/Media/animation2.gif" width="500"> 
 
 
-<h3>Skills: </h3>
+<h3 style="margin-left: 10px;">Skills: </h3>
   C / C++ / HTML / CSS / FIGMA
 
 
