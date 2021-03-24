@@ -3,7 +3,7 @@
 <br>
   <img align="left" alt="GIF" src="https://github.com/yash22arora/yash22arora/blob/main/Media/animation2.gif" width="500"> 
 
-<br>
+
 <h3 style="margin-left: 20px;">Skills: </h3>
 <img align="left" title="C" alt="C" width="26px" src="./logos/c.svg" />
 <img align="left" title="C++" alt="C++" width="26px" src="./logos/cplusplus.svg" />
