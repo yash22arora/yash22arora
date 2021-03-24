@@ -4,12 +4,12 @@
   <img align="left" alt="GIF" src="https://github.com/yash22arora/yash22arora/blob/main/Media/animation2.gif" width="500"> 
 
 
-<h3 align="center">Skills: </h3>
+<h3>Skills: </h3>
 
-<img align="center" title="C" alt="C" width="26px" src="./logos/c.svg" />
-<img align="center" title="C++" alt="C++" width="26px" src="./logos/cplusplus.svg" />
-<img align="center" title="HTML5" alt="HTML5" width="26px" src="./logos/html5.svg" />
-<img align="center" title="CSS3" alt="CSS3" width="26px" src="./logos/css3.svg" />
+<img align="left" title="C" alt="C" width="26px" src="./logos/c.svg" />
+<img align="left" title="C++" alt="C++" width="26px" src="./logos/cplusplus.svg" />
+<img align="left" title="HTML5" alt="HTML5" width="26px" src="./logos/html5.svg" />
+<img align="left" title="CSS3" alt="CSS3" width="26px" src="./logos/css3.svg" />
  FIGMA
 
 
