@@ -10,8 +10,8 @@
 <img align="left" title="C++" alt="C++" width="26px" src="./logos/cplusplus.svg" />
 <img align="left" title="HTML5" alt="HTML5" width="26px" src="./logos/html5.svg" />
 <img align="left" title="CSS3" alt="CSS3" width="26px" src="./logos/css3.svg" />
-<img align="left" title="FIGMA" alt="FIGMA" width="26px" src="./logos/figma.svg" />
- FIGMA
+<img align="left" title="FIGMA" alt="FIGMA" height="26px" src="./logos/figma.svg" />
+ 
 
 
 <br>
