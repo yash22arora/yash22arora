@@ -1,9 +1,12 @@
-### Hi there 👋, my name is Yashvardhan Arora
-#### I am a CSE undergrad from India!
+# Hi there 👋, my name is Yashvardhan Arora
+## I am a CSE undergrad from India!
 ![I am a CSE undergrad from India!](https://github.com/yash22arora/yash22arora/blob/main/Media/animation2.gif)
 
 
-Skills: C / C++ / HTML / CSS / FIGMA
+### Skills: 
+C / C++ / HTML / CSS / FIGMA
+
+
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning JavaScript 
@@ -11,6 +14,7 @@ Skills: C / C++ / HTML / CSS / FIGMA
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I can whistle to songs quiet impressively 🤪 
 
+### Connect with me: 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yash22arora)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yashvardhan-arora/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/yashvardhan.arora.3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/yashvardhan2210/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/YashvardhanAro2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/yashvardhanarora)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://yash22arora.github.io/Profiles/)  
 
