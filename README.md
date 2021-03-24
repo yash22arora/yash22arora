@@ -5,7 +5,8 @@
 </div>
 
 
-<div style="display:inline;">
+<div>
+  
   ###  Skills: 
   C / C++ / HTML / CSS / FIGMA
 </div>
