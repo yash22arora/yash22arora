@@ -33,7 +33,7 @@
 <br>
 <h2>About Me:</h2>
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on <a href="https://yash22arora.github.io/Profiles/">this page.</a> 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on Front End Web Development 
 - 😄 Pronouns: He/Him 
@@ -47,7 +47,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yash22arora&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yash22arora)  
+![GitHub Activity Graph](https://github.com/users/yash22arora/contributions)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yash22arora)  
 
