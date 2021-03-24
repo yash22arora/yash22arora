@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, my name is Yashvardhan Arora</h1>
 <h2 align="center">I am a CSE undergrad from India!</h2>
 <br>
-  <img align="left" alt="GIF" src="https://github.com/yash22arora/yash22arora/blob/main/Media/animation2.gif" width="500"> 
+  <img align="left" alt="GIF" src="https://github.com/yash22arora/yash22arora/blob/main/Media/animation2.gif" width="500" style="margin-right:30px;"> 
 
 
 <h3 style="left: 50px; position:relative;">Skills: </h3>
