@@ -4,7 +4,7 @@
   <img align="left" alt="GIF" src="https://github.com/yash22arora/yash22arora/blob/main/Media/animation2.gif" width="500"> 
 
 
-<h3 align="center">Skills: </h3>
+<h3 style="text-align:center">Skills: </h3>
 <div align="center">
 <img align="left" title="C" alt="C" width="26px" src="./logos/c.svg" />
 <img align="left" title="C++" alt="C++" width="26px" src="./logos/cplusplus.svg" />
