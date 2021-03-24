@@ -3,7 +3,7 @@
 <br>
   <img align="left" alt="GIF" src="https://github.com/yash22arora/yash22arora/blob/main/Media/animation2.gif" width="500"> 
 
-<span align="centre">
+
 <h3 style="left: 50px; position:relative;">Skills: </h3>
 <img align="left" title="C" alt="C" width="26px" src="./logos/c.svg" />
 <img align="left" title="C++" alt="C++" width="26px" src="./logos/cplusplus.svg" />
@@ -23,11 +23,11 @@
 
 <br>
 <br>
-<h3 style="left: 50px; position:relative;">Badges:</h3> 
+<h3 style="right: 50px; position:relative;">Badges:</h3> 
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-</span>
+
 
 <br>
 <br>
