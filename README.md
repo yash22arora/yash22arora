@@ -5,7 +5,12 @@
 
 <br>
 <h3 style="margin-left: 10px;">Skills: </h3>
-  C / C++ / HTML / CSS / FIGMA
+<img align="left" title="C" alt="C" width="26px" src="./logos/c.svg" />
+<img align="left" title="C++" alt="C++" width="26px" src="./logos/cplusplus.svg" />
+<img align="left" title="HTML5" alt="HTML5" width="26px" src="./logos/html5.svg" />
+<img align="left" title="CSS3" alt="CSS3" width="26px" src="./logos/css3.svg" />
+<img align="left" title="CSS3" alt="CSS3" width="26px" src="./logos/css3.svg" />
+ FIGMA
 
 
 <br>
@@ -25,7 +30,9 @@
 
 
 
-
+<br>
+<br>
+<h2>About Me:</h2>
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning JavaScript 
@@ -46,3 +53,16 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yash22arora)  
 
 ![Profile views](https://gpvc.arturio.dev/yash22arora)  
+
+
+<br>
+<br>
+<br>
+
+<p align="center">
+    :arrow_down: Scroll down to see my top repositories :arrow_down:
+    <br>
+    <b>
+      Show some ❤️ by starring some of the repositories!
+    </b>
+</p>
