@@ -41,7 +41,7 @@
 
 
 
-### Some Stats:
+## Some Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash22arora)](https://github.com/anuraghazra/github-readme-stats)
 
