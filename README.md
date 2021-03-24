@@ -1,11 +1,15 @@
 # Hi there 👋, my name is Yashvardhan Arora
 ## I am a CSE undergrad from India!
-<div style="float:right;">
+<div style="display:inline; width:500px;">
   <img src="https://github.com/yash22arora/yash22arora/blob/main/Media/animation2.gif" width="500"> 
 </div>
 
-###  Skills: 
-C / C++ / HTML / CSS / FIGMA
+
+<div style="display:inline;">
+  ###  Skills: 
+  C / C++ / HTML / CSS / FIGMA
+</div>
+
 
 
 
