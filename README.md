@@ -49,7 +49,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yash22arora&show_icons=true)  
 
-![GitHub Activity Graph](https://github.com/users/yash22arora/contributions)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yash22arora)  
 
