@@ -35,7 +35,7 @@
 <br>
 <h2>About Me:</h2>
 
-- 🔭 I’m currently working on <a href="https://yash22arora.github.io/Thinder/">thinder 🔥.</a> 
+- 🔭 I’m currently working on <a href="https://yash22arora.github.io/Thinder/">thinder 🔥 🤪.</a> 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on Front End Web Development 
 - 😄 Pronouns: He/Him 
