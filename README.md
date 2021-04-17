@@ -18,10 +18,10 @@
 <br>
 <h3 style="left: 50px; position:relative;">Connect with me:</h3> 
 
-<a href="https://twitter.com/YashvardhanAro2"><img align="left" title="Twitter - Yashvardhan Arora" alt="Twitter" width="22px" src="./logos/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/yashvardhan-arora/"><img align="left" title="LinkedIn - Yashvardhan Arora" alt="LinkedIn" width="22px" src="./logos/linkedin.svg" /></a>
-<a href="https://www.instagram.com/yashvardhan2210/"><img align="left" title="Instagram - Yashvardhan Arora" alt="Instagram" width="22px" src="./logos/instagram.svg" /></a>
-<a href="mailto:yash22arora@gmail.com"><img align="left" title="Mail - Yashvardhan Arora" alt="Mail" width="22px" src="./logos/gmail.svg" /></a>
+<a href="https://twitter.com/YashvardhanAro2"><img align="left" title="Twitter - Yashvardhan Arora" alt="Twitter" height="24px" src="./logos/twitter_coloured.png" /></a>
+<a href="https://www.linkedin.com/in/yashvardhan-arora/"><img align="left" title="LinkedIn - Yashvardhan Arora" alt="LinkedIn" width="22px" src="./logos/linkedin_coloured.png" /></a>
+<a href="https://www.instagram.com/yashvardhan2210/"><img align="left" title="Instagram - Yashvardhan Arora" alt="Instagram" width="22px" src="./logos/instagram_coloured.png" /></a>
+<a href="mailto:yash22arora@gmail.com"><img align="left" title="Mail - Yashvardhan Arora" alt="Mail" width="22px" src="./logos/gmail_coloured.png" /></a>
 
 <br>
 <br>
