@@ -6,8 +6,8 @@
 
 <h3>Skills: </h3>
 
-<img align="left" title="C" alt="C" width="26px" src="./logos/c_colored.png" />
-<img align="left" title="C++" alt="C++" width="32px" src="./logos/cpp_coloured.png" />
+<img align="left" title="C" alt="C" height="28px" src="./logos/c_colored.png" />
+<img align="left" title="C++" alt="C++" height="30px" src="./logos/cpp_coloured.png" />
 <img align="left" title="HTML5" alt="HTML5" width="26px" src="./logos/html5_coloured.png" />
 <img align="left" title="CSS3" alt="CSS3" width="26px" src="./logos/css3_coloured.png" />
 <img align="left" title="FIGMA" alt="FIGMA" height="26px" src="./logos/figma.svg" />
