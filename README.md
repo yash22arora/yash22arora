@@ -10,6 +10,7 @@
 <img align="left" title="C++" alt="C++" height="30px" src="./logos/cpp_coloured.png" />
 <img align="left" title="HTML5" alt="HTML5" width="26px" src="./logos/html5_coloured.png" />
 <img align="left" title="CSS3" alt="CSS3" width="26px" src="./logos/css3_coloured.png" />
+<img align="left" title="JS" alt="JavaScript" height="26px" src="./logos/javascript_coloured2.png" />
 <img align="left" title="FIGMA" alt="FIGMA" height="26px" src="./logos/figma.svg" />
  
 
@@ -52,7 +53,7 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yash22arora)  
 
-![Profile views](https://gpvc.arturio.dev/yash22arora)  
+
 
 
 <br>
