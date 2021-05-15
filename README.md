@@ -35,7 +35,7 @@
 <br>
 <h2>About Me:</h2>
 
-- 🔭 I’m currently working on <a href="https://github.com/CodeClan5/Second-Hand">Second Hand 🤝.</a> 
+- 🔭 I’m currently working on <a href="http://servatom.com/">Second Hand 🤝.</a> 
 - 🌱 I’m currently learning jQuery 
 - 👯 I’m looking to collaborate on Front End Web Development 
 - 😄 Pronouns: He/Him 
