@@ -42,7 +42,13 @@
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I can whistle to songs quiet impressively 🤪 
 
+---
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31bgv3ocoox3iadt2gxs7pouni2q?si=8b7c8776f0074072)
+
+---
 
 ## Some Stats:
 
