@@ -26,12 +26,11 @@
 
 <br>
 <br>
-<h3 style="right: 50px; position:relative;">Badges:</h3> 
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <h2>About Me:</h2>
@@ -44,9 +43,10 @@
 
 ---
 
+
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31bgv3ocoox3iadt2gxs7pouni2q?si=8b7c8776f0074072)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31bgv3ocoox3iadt2gxs7pouni2q?si=faf0309cb4234de8)
 
 ---
 
