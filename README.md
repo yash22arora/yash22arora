@@ -36,7 +36,7 @@
 <h2>About Me:</h2>
 
 - 🔭 I’m currently working on <a href="http://servatom.com/">Second Hand 🤝.</a> 
-- 🌱 I’m currently learning jQuery 
+- 🌱 I’m currently learning ReactJS 
 - 👯 I’m looking to collaborate on Front End Web Development 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I can whistle to songs quiet impressively 🤪 
