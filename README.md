@@ -77,7 +77,7 @@
 
 <br>
 <br>
-<h2 align="center" class="noborder">👈 My Overall Github Stats</h2>
+<h3 align="center" class="noborder">👈 My Overall Github Stats</h3>
 <br>
 <br>
 <br>
