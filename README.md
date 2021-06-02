@@ -60,14 +60,14 @@
 
 <div>
 <a href="">
-  <img align="left" width=49%; src="https://github-readme-stats.vercel.app/api?username=yash22arora&show_icons=true&theme=omni&hide_border=true&include_all_commits=true" />
+  <img align="left" width=49%; src="https://github-readme-stats.vercel.app/api?username=yash22arora&show_icons=true&theme=omni&hide_border=true&include_all_commits=true&hide_title=true" />
 </a>
 
 <a href="">
   <img align="right" width=49%; src="https://github-readme-streak-stats.herokuapp.com/?user=yash22arora&theme=omni&hide_border=true" />
 </a>
 <a>
-  <img align="left" width=49%; src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash22arora&layout=compact&theme=omni&hide_border=true" />
+  <img align="left" width=49%; src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash22arora&layout=compact&theme=omni&hide_border=true&hide_title=true" />
 </a>
 </div>
 
@@ -75,6 +75,17 @@
 
 <br>
 <br>
+<h2 align="center">👈 My Overall Github Stats</h2>
+<br>
+<br>
+<br>
+<h3 align="center">Streak Stats 👉</h3>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h3 align="center">👈 Top Languages Used</h3>
 <br>
 <br>
 <br>
@@ -84,22 +95,8 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+
 
 <p align="center">
     :arrow_down: Scroll down to see my top repositories :arrow_down:
