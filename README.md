@@ -1,5 +1,7 @@
+<link rel="stylesheet" type="text/css" media="all" href="styles.css" />
+
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Yashvardhan Arora</h1>
-<h2 align="center">I am a CSE undergrad from India!</h2>
+<h2 align="center" class="noborder">I am a CSE undergrad from India!</h2>
 <br>
   <img align="left" alt="GIF" src="https://github.com/yash22arora/yash22arora/blob/main/Media/animation2.gif" width="500"> 
 
@@ -75,17 +77,17 @@
 
 <br>
 <br>
-<h2 align="center">👈 My Overall Github Stats</h2>
+<h2 align="center" class="noborder">👈 My Overall Github Stats</h2>
 <br>
 <br>
 <br>
-<h3 align="center">Streak Stats 👉</h3>
+<h3 align="center" class="noborder">Streak Stats 👉</h3>
 <br>
 <br>
 <br>
 <br>
 <br>
-<h3 align="center">👈 Top Languages Used</h3>
+<h3 align="center" class="noborder">👈 Top Languages Used</h3>
 <br>
 <br>
 <br>
