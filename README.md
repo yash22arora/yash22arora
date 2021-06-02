@@ -67,7 +67,7 @@
   <img align="right" width=49%; src="https://github-readme-streak-stats.herokuapp.com/?user=yash22arora&theme=omni&hide_border=true" />
 </a>
 <a>
-  <img align="left" width=49%; src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=omni&hide_border=true" />
+  <img align="left" width=49%; src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash22arora&layout=compact&theme=omni&hide_border=true" />
 </a>
 </div>
 
