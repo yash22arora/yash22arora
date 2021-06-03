@@ -60,22 +60,21 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=omni&hide_border=true) 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yash22arora&theme=omni&hide_border=true)    -->
 
-<div>
-<a href="">
-  <img align="left" width=49%; src="https://github-readme-stats.vercel.app/api?username=yash22arora&show_icons=true&theme=omni&hide_border=true&include_all_commits=true&hide_title=true" />
-</a>
 
-<a href="">
-  <img align="right" width=49%; src="https://github-readme-streak-stats.herokuapp.com/?user=yash22arora&theme=omni&hide_border=true" />
-</a>
-<a>
-  <img align="left" width=49%; src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash22arora&layout=compact&theme=omni&hide_border=true&hide_title=true" />
-</a>
-</div>
 
+<img align="left" height="151px;" src="https://github-readme-stats.vercel.app/api?username=yash22arora&show_icons=true&theme=omni&hide_border=true&include_all_commits=true&hide_title=true" />
+<img align="right"  height="147px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash22arora&layout=compact&theme=omni&hide_border=true&hide_title=true" />
 
 
 <br>
+<br>
+<br>
+ 
+<!-- <img align="right" width=47%; src="https://github-readme-streak-stats.herokuapp.com/?user=yash22arora&theme=omni&hide_border=true" /> -->
+  
+
+
+<!-- <br>
 <br>
 <h3 align="center" class="noborder">👈 My Overall Github Stats</h3>
 <br>
@@ -91,12 +90,13 @@
 <br>
 <br>
 <br>
+<br> -->
 <br>
 <br>
 <br>
 <br>
 <br>
-
+<br>
 
 
 <p align="center">
