@@ -62,8 +62,8 @@
 
 
 
-<img align="left" height="151px;" src="https://github-readme-stats.vercel.app/api?username=yash22arora&show_icons=true&theme=omni&hide_border=true&include_all_commits=true&hide_title=true" />
-<img align="right"  height="147px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash22arora&layout=compact&theme=omni&hide_border=true&hide_title=true" />
+<img align="left" height="151px;" width="47%" src="https://github-readme-stats.vercel.app/api?username=yash22arora&show_icons=true&theme=omni&hide_border=true&include_all_commits=true&hide_title=true" />
+<img align="right" height="147px;" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash22arora&layout=compact&theme=omni&hide_border=true&hide_title=true" />
 
 
 <br>
