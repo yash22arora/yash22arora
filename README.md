@@ -3,7 +3,7 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Yashvardhan Arora</h1>
 <h2 align="center" class="noborder">I am a CSE undergrad from India!</h2>
 <br>
-  <img align="left" alt="GIF" src="https://github.com/yash22arora/yash22arora/blob/main/Media/animation2.gif" width="500"> 
+  <img align="left" alt="GIF" src="https://github.com/yash22arora/yash22arora/blob/main/Media/animation2.gif" width="450px"> 
 
 
 <h3>Skills: </h3>
@@ -35,10 +35,9 @@
 <br>
 <br>
 <br>
-<br>
 <h2>About Me:</h2>
 
-- 🔭 I’m currently working on <a href="http://servatom.com/">Second Hand 🤝.</a> 
+- 🔭 I’m currently working on <a href="https://github.com/CodeClan5/Second-Hand">Second Hand 🤝.</a> 
 - 🌱 I’m currently learning ReactJS 
 - 👯 I’m looking to collaborate on Front End Web Development 
 - 😄 Pronouns: He/Him 
