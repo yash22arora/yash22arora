@@ -37,9 +37,10 @@
 <br>
 <h2>About Me:</h2>
 
-- 🔭 I’m currently working on <a href="https://github.com/CodeClan5/Second-Hand">Second Hand 🤝.</a> 
+- 🔭 I’m currently working on <a href="https://servatom.com/"><img src="https://servatom.com/assets/servatom-logo-rounded.png" height="15px"> Servatom.com</a> .
 - 🌱 I’m currently learning ReactJS 
 - 👯 I’m looking to collaborate on Front End Web Development 
+- 🤝 I'm Looking for help with Backend Development
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I can whistle to songs quiet impressively 🤪 
 
@@ -97,11 +98,7 @@
 <br>
 <br> -->
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 
 <p align="center">
