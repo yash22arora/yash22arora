@@ -71,9 +71,11 @@
 
 <p align="center">
 <a href="https://github.com/yash22arora">
-<img   width="48%" src="https://github-readme-stats.vercel.app/api?username=yash22arora&show_icons=true&theme=omni&hide_border=true&include_all_commits=true&hide_title=true" />
+<!-- <img   width="48%" src="https://github-readme-stats.vercel.app/api?username=yash22arora&show_icons=true&theme=omni&hide_border=true&include_all_commits=true&hide_title=true" /> -->
   
-<img   width="51%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash22arora&layout=compact&theme=omni&hide_border=true&hide_title=true" />
+  <img   width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=yash22arora&theme=omni&hide_border=true&include_all_commits=true&hide_title=true" />
+  
+<img   width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash22arora&layout=compact&theme=omni&hide_border=true&hide_title=true" />
   <br><br>
 <img alt="Yashvardhan's Activity Graph" width="99%" src="https://activity-graph.herokuapp.com/graph?username=yash22arora&bg_color=191621&color=e4dc87&line=cc70a9&point=ffffff&hide_border=true">
   
