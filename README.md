@@ -8,7 +8,7 @@
 
 <h3>About Me:</h3>
 
-- 🔭 I’m currently working on <a href="https://github.com/yash22arora/notefy"><img src="https://assets.servatom.com/notefy/logo.png" height="15px"> Notefy</a> .
+- 🔭 I’m currently working on <a href="https://github.com/Servatom/Shealth"><img src="https://assets.servatom.com/Shealth/logo.png" height="15px"> Shealth</a> .
 - 🌱 I’m currently learning ReactJS 
 - 👯 I’m looking to collaborate on Front End Web Development 
 - 🤝 I'm Looking for help with Backend Development
