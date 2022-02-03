@@ -8,8 +8,8 @@
 
 <h3>About Me:</h3>
 
-- 🔭 I’m currently working on <a href="https://github.com/Servatom/Shealth"><img src="https://assets.servatom.com/Shealth/logo.png" height="15px"> Shealth</a> 
-- 🌱 I’m currently learning ReactJS 
+<!-- - 🔭 I’m currently working on <a href="https://github.com/Servatom/Shealth"><img src="https://assets.servatom.com/Shealth/logo.png" height="15px"> Shealth</a>  -->
+- 🌱 I’m currently learning Redux 
 - 👯 I’m looking to collaborate on Web Development Projects implementing React 
 - 🤝 I'm Looking for help with DSA
 - 🌌 I am an astrophile!
