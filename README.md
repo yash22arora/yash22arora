@@ -9,9 +9,10 @@
 <h3>About Me:</h3>
 
 <!-- - 🔭 I’m currently working on <a href="https://github.com/Servatom/Shealth"><img src="https://assets.servatom.com/Shealth/logo.png" height="15px"> Shealth</a>  -->
-- 🌱 I’m currently learning Remix 
-- 👯 I’m looking to collaborate on Web Development Projects implementing React/Remix. 
-- 🤝 I'm Looking for help with DSA
+- 🌱 I’m currently learning Remix. 
+- 👨🏼‍💻 I'm currently working at UrbanTV!
+- 👯 I’m looking to collaborate on Web Development Projects implementing React/Remix/NextJS. 
+- 🤝 I'm Looking for help with DSA.
 - 🌌 I am an astrophile!
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I can whistle to songs quiet impressively 🤪 
@@ -29,6 +30,8 @@
 <img align="left" title="Bootstrap" alt="Bootstrap" width="35px" src="./logos/Bootstrap.png" />
 <img align="left" title="JS" alt="JavaScript" height="35px" src="./logos/javascript_coloured2.png" />
 <img align="left" title="ReactJS" alt="ReactJS" height="35px" src="./logos/react_colored.png" />
+<img align="left" title="Remix" alt="Remix" height="35px" src="https://seeklogo.com/images/R/remix-logo-862D8B1019-seeklogo.com.png" />
+<img align="left" title="TailwindCSS" alt="TailwindCSS" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" />
 <img align="left" title="FIGMA" alt="FIGMA" height="35px" src="./logos/figma.svg" />
 
  
