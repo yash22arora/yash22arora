@@ -30,9 +30,11 @@
 <img align="left" title="Bootstrap" alt="Bootstrap" width="35px" src="./logos/Bootstrap.png" />
 <img align="left" title="JS" alt="JavaScript" height="35px" src="./logos/javascript_coloured2.png" />
 <img align="left" title="ReactJS" alt="ReactJS" height="35px" src="./logos/react_colored.png" />
+
 <img align="left" title="Remix" alt="Remix" height="35px" src="https://seeklogo.com/images/R/remix-logo-862D8B1019-seeklogo.com.png" />
-<img align="center" title="TailwindCSS" alt="TailwindCSS" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" />
-<img align="center" title="FIGMA" alt="FIGMA" height="35px" src="./logos/figma.svg" />
+
+<img align="left" title="TailwindCSS" alt="TailwindCSS" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" />
+<img align="left" title="FIGMA" alt="FIGMA" height="35px" src="./logos/figma.svg" />
 
  
 
