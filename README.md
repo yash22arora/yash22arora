@@ -23,19 +23,27 @@
 
 <h3 align="left">Skills: </h3>
 
-<img align="left"  title="C" alt="C" height="33px" src="./logos/c_colored.png" />
-<img align="left" title="C++" alt="C++" height="35px" src="./logos/cpp_coloured.png" />
-<img align="left" title="HTML5" alt="HTML5" width="35px" src="./logos/html5_coloured.png" />
-<img align="left" title="CSS3" alt="CSS3" width="35px" src="./logos/css3_coloured.png" />
-<img align="left" title="Bootstrap" alt="Bootstrap" width="35px" src="./logos/Bootstrap.png" />
-<img align="left" title="JS" alt="JavaScript" height="35px" src="./logos/javascript_coloured2.png" />
-<img align="left" title="ReactJS" alt="ReactJS" height="35px" src="./logos/react_colored.png" />
+<div style="display:flex;flex-direction:row;justify-content:space-evenly;align-items:center;widht:100%">
+
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+<br>
+<br>
+<br>
 
 <img align="left" title="Remix" alt="Remix" height="35px" src="https://seeklogo.com/images/R/remix-logo-862D8B1019-seeklogo.com.png" />
-
-<img align="left" title="TailwindCSS" alt="TailwindCSS" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" />
-<img align="left" title="FIGMA" alt="FIGMA" height="35px" src="./logos/figma.svg" />
-
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+</div>
  
 
 <br>
