@@ -11,6 +11,7 @@
 <!-- - 🔭 I’m currently working on <a href="https://github.com/Servatom/Shealth"><img src="https://assets.servatom.com/Shealth/logo.png" height="15px"> Shealth</a>  -->
 - 🌱 I’m currently learning Remix. 
 - 👨🏼‍💻 I'm currently working at UrbanTV!
+- 🏗 I'm currently building Gradeyard 🤝
 - 👯 I’m looking to collaborate on Web Development Projects implementing React/Remix/NextJS. 
 - 🤝 I'm Looking for help with DSA.
 - 🌌 I am an astrophile!
