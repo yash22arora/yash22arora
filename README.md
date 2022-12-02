@@ -9,9 +9,9 @@
 <h3>About Me:</h3>
 
 <!-- - 🔭 I’m currently working on <a href="https://github.com/Servatom/Shealth"><img src="https://assets.servatom.com/Shealth/logo.png" height="15px"> Shealth</a>  -->
-- 🌱 I’m currently learning Remix and NextJS. 
+- 🌱 I’m currently learning Nodejs and Express. 
 - 👨🏼‍💻 I'm currently a Frontend ENgineering Intern at [Zuddl](https://www.zuddl.com/)!
-- 🏗 I'm currently building Gradeyard 🤝
+- 🏗 I'm currently building DSC Connect 🤝
 - 👯 I’m looking to collaborate on Web Development Projects implementing React/Remix/NextJS. 
 - 🤝 I'm Looking for help with DSA.
 - 🌌 I am an astrophile!
