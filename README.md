@@ -9,9 +9,9 @@
 <h3>About Me:</h3>
 
 <!-- - 🔭 I’m currently working on <a href="https://github.com/Servatom/Shealth"><img src="https://assets.servatom.com/Shealth/logo.png" height="15px"> Shealth</a>  -->
-- 🌱 I’m currently learning Nodejs and Express. 
+- 🌱 I’m currently learning Prisma and MongoDB. 
 - 👨🏼‍💻 I'm currently a Frontend Engineering Intern at [Zuddl](https://www.zuddl.com/)!
-- 🏗 I'm currently building DSC Connect 🤝
+- 🏗 I'm currently building Gradeyard 🤝
 - 👯 I’m looking to collaborate on Web Development Projects implementing React/Remix/NextJS. 
 - 🤝 I'm Looking for help with DSA.
 - 🌌 I am an astrophile!
@@ -44,6 +44,12 @@
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+<img align="left" width="40px" alt="Prisma" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/square_480/prismaHD.png" />
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  
+
 </div>
  
 
