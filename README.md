@@ -3,7 +3,7 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, my name is Yashvardhan Arora</h1>
 <h2 align="center" class="noborder">I am a CSE undergrad from India!</h2>
 <br>
-  <img align="right" alt="GIF" src="https://github.com/yash22arora/yash22arora/blob/main/Media/Programming-amico.png" width="45%" style="margin:0 50px;"> 
+  <img align="right" alt="GIF" src="https://github.com/yash22arora/yash22arora/blob/main/Media/Avatar.png" width="45%" style="margin:0 50px;"> 
 
 
 <h3>About Me:</h3>
