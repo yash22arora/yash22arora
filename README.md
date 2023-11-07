@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" media="all" href="styles.css" />
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, my name is Yashvardhan Arora</h1>
-<h2 align="center" class="noborder">I am a CSE undergrad from India!</h2>
+<h2 align="center">I am a CSE grad and a Fullstack Developer from India!</h2>
 <br>
   <img align="right" alt="GIF" src="https://github.com/yash22arora/yash22arora/blob/main/Media/Avatar.png" width="45%" style="margin:0 50px;"> 
 
@@ -16,7 +16,7 @@
 - 🤝 I'm Looking for help with DSA.
 - 🌌 I am an astrophile!
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I can whistle to songs quiet impressively 🤪 
+- ⚡ Fun fact: I can whistle to songs quite impressively 🤪 
 
 <br>
 
@@ -97,8 +97,9 @@
   
 <img   width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash22arora&layout=compact&theme=omni&hide_border=true&hide_title=true" />
   <br><br>
-<img alt="Yashvardhan's Activity Graph" width="99%" src="https://activity-graph.herokuapp.com/graph?username=yash22arora&bg_color=191621&color=e4dc87&line=cc70a9&point=ffffff&hide_border=true">
-  
+<!--
+<img alt="" width="99%" src="https://github-readme-stats.vercel.app/api?username=yash22arora&bg_color=191621&color=e4dc87&line=cc70a9&point=ffffff&hide_border=true">
+-->
   </a>
 </p>
 <br>
