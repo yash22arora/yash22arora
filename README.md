@@ -9,11 +9,11 @@
 <h3>About Me:</h3>
 
 <!-- - 🔭 I’m currently working on <a href="https://github.com/Servatom/Shealth"><img src="https://assets.servatom.com/Shealth/logo.png" height="15px"> Shealth</a>  -->
-- 🌱 I’m currently learning Java SpringBoot. 
+- 🌱 I’m currently learning Swift and iOS Dev. 
 - 👨🏼‍💻 Engineering Intern @ JPMC | Ex-Frontend at [Zuddl](https://www.zuddl.com/)!
 - 🏗 I'm currently building ServDomain 🔗
 - 👯 I’m looking to collaborate on Web Development Projects implementing React/Remix/NextJS. 
-- 🤝 I'm Looking for help with Devops.
+- 🤝 I'm Looking for help with Product Ideas.
 - 🌌 I am an astrophile!
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I can whistle to songs quite impressively 🤪 
