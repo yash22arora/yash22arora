@@ -11,7 +11,7 @@
 <!-- - 🔭 I’m currently working on <a href="https://github.com/Servatom/Shealth"><img src="https://assets.servatom.com/Shealth/logo.png" height="15px"> Shealth</a>  -->
 - 🌱 I’m currently learning Swift and iOS Dev. 
 - 👨🏼‍💻 Engineering Intern @ JPMC | Ex-Frontend at [Zuddl](https://www.zuddl.com/)!
-- 🏗 I'm currently building ServDomain 🔗
+- 🏗 I'm currently building IndiePay 🔗
 - 👯 I’m looking to collaborate on Web Development Projects implementing React/Remix/NextJS. 
 - 🤝 I'm Looking for help with Product Ideas.
 - 🌌 I am an astrophile!
