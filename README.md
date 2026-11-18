@@ -1,10 +1,12 @@
-<h1 align="center">Hey, I'm Yashvardhan 👋</h1>
+<img align="right" src="https://raw.githubusercontent.com/yash22arora/yash22arora/main/Media/avatar.png" width="280" alt="Memoji of Yashvardhan peeking over a laptop, surrounded by TypeScript, React, JavaScript, Tailwind and Swift logos" />
 
-<p align="center">
+<h1>Hey, I'm Yashvardhan 👋</h1>
+
+<p>
   Software engineer based in Delhi. Building with craft, shipping with purpose: apps, web, backends, and lately agents.
 </p>
 
-<p align="center">
+<p>
   <a href="https://yashvardhan.servatom.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-yashvardhan.servatom.com-111827?style=for-the-badge&logo=safari&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/yashvardhan-arora/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://medium.com/@yashvardhanarora"><img alt="Medium" src="https://img.shields.io/badge/Medium-Read-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
@@ -12,6 +14,8 @@
   <a href="https://www.instagram.com/yashvardhan2210/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:yashvardhan.arora@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20hi-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
 </p>
+
+<br clear="right" />
 
 ---
 
