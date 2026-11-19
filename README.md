@@ -32,11 +32,11 @@
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [**Kin**](https://github.com/yash22arora/Kin) ✨ | Every person you love is a star. Log a moment and their star glows. No accounts, no server, no guilt. Widgets, Siri and StoreKit 2 included. [kin.servatom.com](https://kin.servatom.com/) | `Swift` `SwiftUI` `SpriteKit` `WidgetKit` `App Intents` |
-| [**Map Emulator**](https://github.com/yash22arora/MapEmulator) 🗺️ | A from-scratch simulation of how Uber, Rapido and Swiggy stream a rider's location so the dot glides instead of jumping. Hand-rolled SSE, backpressure-aware queues, built in 16 documented phases. | `Node` `Express` `TypeScript` `SwiftUI` `MapKit` |
+| [**Map Emulator**](https://github.com/yash22arora/MapEmulator) 🗺️ | A from-scratch simulation of how Uber, Rapido and Swiggy stream a rider's location so the dot glides instead of jumping. Hand-rolled SSE, backpressure-aware queues, built in 16 documented phases. [Demo](https://lnkd.in/p/gD7QtheH) | `Node` `Express` `TypeScript` `SwiftUI` `MapKit` |
 | [**ChronoFrame**](https://github.com/yash22arora/reduce-fps) 🎞️ | Re-time any video to a custom FPS entirely in your browser. FFmpeg runs as WebAssembly, so your footage never gets uploaded. Auth, credits and payments included. [Live](https://reduce-fps.vercel.app) | `Next.js` `TypeScript` `WebAssembly` `Supabase` `Razorpay` |
 | [**Potluck**](https://github.com/yash22arora/potluck) 🍲 | A Telegram group member that reads the dinner debate, decides cook / order / go out, and acts via Swiggy MCP. Nothing spends money without a human tap. *(early days)* | `Python` `Postgres` `Docker` `MCP` |
 | [**Lift**](https://github.com/yash22arora/Lift) 🏋️ | A workout tracker with live sessions, rest timers, 1RM and volume charts, and HealthKit steps. Neon-on-obsidian design. | `SwiftUI` `SwiftData` `HealthKit` |
-| [**Silo**](https://github.com/yash22arora/Silo-Mac) ⏱️ | A macOS menu-bar timer with a squeeze-and-bulge drag to set the time, in Liquid Glass. | `Swift` `AppKit` `SwiftUI` |
+| [**Silo**](https://github.com/yash22arora/Silo-Mac) ⏱️ | A macOS menu-bar timer with a squeeze-and-bulge drag to set the time, in Liquid Glass. [Demo](https://lnkd.in/p/gCesD5nv) | `Swift` `AppKit` `SwiftUI` |
 | [**Notefy**](https://github.com/Servatom/notefy) 📝 | Note-taking web app, built with a team at Servatom. 27★ 20 forks. | `React` `Django` |
 
 <sub>Older web work (ServDomain, Gradeyard, Goreeva Quiz and more) lives in my <a href="https://github.com/yash22arora?tab=repositories">repositories</a>.</sub>
